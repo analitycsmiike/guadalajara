@@ -1,3 +1,0 @@
-# Guadalajara
-
-Regidor
