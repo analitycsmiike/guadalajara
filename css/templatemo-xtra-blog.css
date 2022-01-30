@@ -42,7 +42,6 @@ hr {
 }
 
 .tm-header-wrapper {
-    overflow-y: scroll;
     scrollbar-width: none;
     -ms-overflow-style: none;
     padding: 10px;
